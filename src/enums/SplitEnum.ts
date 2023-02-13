@@ -1,0 +1,6 @@
+export enum Split {
+  'LONG_AXIS',
+  'SHORT_AXIS',
+  'LONG_LEFTOVER_AXIS',
+  'SHORT_LEFTOVER_AXIS',
+}

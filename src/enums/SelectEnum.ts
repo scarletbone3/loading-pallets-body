@@ -1,0 +1,5 @@
+export enum Select {
+  BEST_SHORT_SIDE_FIT,
+  BEST_LONG_SIDE_FIT,
+  BEST_AREA_FIT,
+}
